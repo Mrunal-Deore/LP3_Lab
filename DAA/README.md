@@ -1,5 +1,4 @@
-<h1>Laboratory Practice- 3 </h1>
-<h3>Design and Analysis of Algorithms</h3>
+<h1>Design and Analysis of Algorithms</h1>
 <br />
 <h4>Assignment- 1</h4>
 <p>Write a program to calculate Fibonacci numbers and find its step count.</p>
